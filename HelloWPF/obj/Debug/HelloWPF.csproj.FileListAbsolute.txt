@@ -1,0 +1,15 @@
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csprojAssemblyReference.cache
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe.config
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.lref
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.cache
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.CoreCompileInputs.cache
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+C:\Users\Enes\dotnetProjects\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb
